@@ -1,7 +1,7 @@
 package com.egoncalves.retrofitexample;
 
-import com.egoncalves.retrofitexample.interfaces.MyApiEndpointInterface;
 import com.egoncalves.retrofitexample.model.User;
+import com.egoncalves.retrofitexample.services.MyApiEndpointInterface;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
