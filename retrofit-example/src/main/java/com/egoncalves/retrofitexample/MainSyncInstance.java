@@ -26,7 +26,7 @@ public class MainSyncInstance {
 
 	public static void main(String[] args) {
 
-		String username = "esmaelgoncalves";
+		String username = "bgasparotto";
 		
 		getUser(username);
 		
